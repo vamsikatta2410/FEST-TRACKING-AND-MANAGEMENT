@@ -18,7 +18,6 @@ This is a web based application developed for conducting fest events
    
 
 
-
 ## Screenshots -
 
 ![image](https://user-images.githubusercontent.com/108206047/175859777-2589b937-3471-4ccf-ad2b-95a2d04e386e.png)
